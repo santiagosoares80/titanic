@@ -1,2 +1,2 @@
 # titanic
-Competição Titanic do kaggle
+Implementation for Titanic competition on Kaggle.
